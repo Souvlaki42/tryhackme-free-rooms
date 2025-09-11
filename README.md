@@ -1,7 +1,3 @@
-# TryHackMe Free Rooms( _they cost $0.00000_ )
-
-<br/>
-
 Hey people, here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
 
 All the rooms herein, are absolutely free. ATTACK!!
@@ -22,8 +18,6 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - USDT: `TWSv2CmzZ9Xgp8j8PwfTDZ329CXJPokpHH`
 
 ## Table of Contents
-
-</aside>
 
 | Name of Topic                                     | Number of Rooms |
 | ------------------------------------------------- | :-------------: |
@@ -59,13 +53,13 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Intro Rooms
 
-- [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
-- [ ] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
-- [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
-- [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
-- [ ] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
-- [ ] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
-- [ ] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
+- [x] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+- [x] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
+- [x] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
+- [x] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
+- [x] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
+- [x] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
+- [x] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
 - [ ] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
 - [ ] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [ ] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
@@ -112,9 +106,9 @@ In case you need deeper study into Linux read follow these:
 
 ## Windows Fundamentals
 
-- [ ] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
-- [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
-- [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [x] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [x] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
@@ -463,7 +457,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Active Directory
 
-- [ ] [TryHackMe | Active Directory Basics](https://tryhackme.com/room/winadbasics)
+- [x] [TryHackMe | Active Directory Basics](https://tryhackme.com/room/winadbasics)
 - [ ] [TryHackMe | AD: Basic Enumeration](https://tryhackme.com/room/adbasicenumeration)
 - [ ] [TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryening)
 - [ ] [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
