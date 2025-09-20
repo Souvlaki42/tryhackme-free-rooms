@@ -1,3 +1,4 @@
+## Search engines
 - Google dorks
 - Duckduckgo bangs
 - Shodan - a search engine for devices connected to the Internet
@@ -7,14 +8,20 @@
 - NVD CVE - dictionary of vulnerabilities
 - Exploit DB - list of exploit codes from various authors
 - GitHub, Linkedin, Facebook etc
+
+## Network protocols
 - SOC
 - TCP, IP, MAC, UDP, HTTP, FTP, SMTP etc
+
+## Windows Fundamentals 1
 - Day 21 of  [Advent of Cyber 2](https://tryhackme.com/room/adventofcyber2) (NTFS ADS practice)
 - NTFS, Permissions, ADS, FAT16, FAT36
 - Windows, System32, %windir%
 - **Administrator** & **Standard User**
 - https://www.howtogeek.com/405806/windows-task-manager-the-complete-guide/
 - https://tryhackme.com/jr/btwindowsinternals
+
+## Windows Fundamentals 2
 - https://docs.microsoft.com/en-us/troubleshoot/windows-client/performance/system-configuration-utility-troubleshoot-configuration-errors
 - Windows Troubleshooting - control.exe
 - https://learn.microsoft.com/en-us/windows/win32/eventlog/event-types
@@ -88,3 +95,4 @@ Trees & Forests
 
 https://tryhackme.com/room/activedirectoryhardening
 https://tryhackme.com/module/hacking-active-directory
+
