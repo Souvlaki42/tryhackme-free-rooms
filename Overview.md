@@ -8,7 +8,7 @@
 - [x] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
 - [x] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
 - [x] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
-- [ ] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
+- [x] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [ ] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
 - [ ] [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
 - [ ] [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
