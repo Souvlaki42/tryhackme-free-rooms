@@ -5,6 +5,8 @@ tags:
   - intro-rooms
   - security
   - devops
+cssclasses:
+  - first-fit
 ---
 ## 📝 Notes
 

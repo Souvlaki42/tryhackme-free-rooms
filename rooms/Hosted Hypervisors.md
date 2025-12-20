@@ -5,6 +5,8 @@ tags:
   - intro-rooms
   - windows
   - hypervisors
+cssclasses:
+  - first-fit
 ---
 ## 📝 Notes
 

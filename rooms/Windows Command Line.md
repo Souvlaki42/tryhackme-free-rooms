@@ -6,6 +6,8 @@ tags:
   - cmd
   - command-line
   - windows
+cssclasses:
+  - first-fit
 ---
 ## 📝 Notes
 - `set`: Get a list of all defined variables.

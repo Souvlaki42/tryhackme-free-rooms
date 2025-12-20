@@ -5,6 +5,8 @@ tags:
   - intro-rooms
   - enumeration
   - brute-force
+cssclasses:
+  - first-fit
 ---
 ## 📝 Notes
 

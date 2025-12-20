@@ -11,7 +11,7 @@
 - [x] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [x] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
 - [x] [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
-- [ ] [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
+- [x] [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
 - [ ] [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
 - [ ] [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
 - [ ] [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
@@ -31,9 +31,9 @@
 
 ## Linux Fundamentals
 
-- [ ] [TryHackMe | Modules](https://tryhackme.com/room/linuxmodules)
+- [x] [TryHackMe | Modules](https://tryhackme.com/room/linuxmodules)
 - [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-- [ ] [Basics of Linux](https://linuxjourney.com/) -- added this since the fundamentals rooms were all made premium.
+- [x] [Basics of Linux](https://linuxjourney.com/) -- added this since the fundamentals rooms were all made premium.
       In case you need deeper study into Linux read follow these:
 - [A very deep dive book](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) -- It's around 900 pages
 - [A reddit community where Linux challenges are posted daily](https://www.reddit.com/r/linuxupskillchallenge/) -- More like practice or keeping in loop

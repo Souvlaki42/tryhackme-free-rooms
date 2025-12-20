@@ -5,6 +5,8 @@ tags:
   - basic-rooms
   - hypervisors
   - internals
+cssclasses:
+  - first-fit
 ---
 ## 📝 Notes
 |   |   |
